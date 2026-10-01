@@ -1,6 +1,6 @@
 # Image attribution
 
-All château / Trianon / hotel photos downloaded from Wikimedia Commons (free licenses). Restaurant cards use original CSS gradient placeholders — no scraped restaurant photography.
+Château / Trianon / hotel photos are from Wikimedia Commons (free licenses). Dinner (and lunch mood) photos are Unsplash / Wikimedia Commons stock used for atmosphere only — they are **not** official restaurant photography.
 
 | File | Source | License | Author |
 |------|--------|---------|--------|
@@ -13,5 +13,13 @@ All château / Trianon / hotel photos downloaded from Wikimedia Commons (free li
 | `images/hall-mirrors.jpg` | [Chateau Versailles Galerie des Glaces](https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg) | CC BY-SA 3.0 | Myrabella |
 | `images/hotel-trianon.jpg` | [Trianon Palace vu du parc](https://commons.wikimedia.org/wiki/File:Trianon_Palace_vu_du_parc.jpg) | CC BY-SA 4.0 | Thomon |
 | `images/hotel-trianon-alt.jpg` | [Versailles - Trianon Palace](https://commons.wikimedia.org/wiki/File:Versailles_-_Trianon_Palace.jpg) | Public domain | Unknown |
+| `images/dinner-gordon.jpg` | Unsplash / Wikimedia Commons stock (fine-dining mood) | Unsplash License / free Commons | Stock photographer |
+| `images/dinner-bistrot.jpg` | Unsplash / Wikimedia Commons stock (bistrot mood) | Unsplash License / free Commons | Stock photographer |
+| `images/dinner-satory.jpg` | Unsplash / Wikimedia Commons stock (modern dining mood) | Unsplash License / free Commons | Stock photographer |
+| `images/dinner-lully.jpg` | Unsplash / Wikimedia Commons stock (candlelit dining mood) | Unsplash License / free Commons | Stock photographer |
+| `images/dinner-tour.jpg` | Unsplash / Wikimedia Commons stock (steakhouse mood) | Unsplash License / free Commons | Stock photographer |
+| `images/dinner-table11.jpg` | Unsplash / Wikimedia Commons stock (tasting-menu mood) | Unsplash License / free Commons | Stock photographer |
+| `images/lunch-ore.jpg` | Unsplash / Wikimedia Commons stock (café lunch mood) | Unsplash License / free Commons | Stock photographer |
+| `images/lunch-veranda.jpg` | Unsplash / Wikimedia Commons stock (brasserie mood) | Unsplash License / free Commons | Stock photographer |
 
-CC BY-SA works require attribution (provided in site footer + this file).
+CC BY-SA works require attribution (provided in site footer + this file). Unsplash photos may be used without attribution but credit is appreciated; they do not depict the named restaurants.
