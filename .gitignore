@@ -1,0 +1,5 @@
+images/
+images-opt/
+*.jpg
+index.full.html
+index.min.html
