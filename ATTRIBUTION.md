@@ -13,7 +13,7 @@ Château / Trianon / hotel photos are from Wikimedia Commons (free licenses). Di
 | `images/hall-mirrors.jpg` | [Chateau Versailles Galerie des Glaces](https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg) | CC BY-SA 3.0 | Myrabella |
 | `images/hotel-trianon.jpg` | [Trianon Palace vu du parc](https://commons.wikimedia.org/wiki/File:Trianon_Palace_vu_du_parc.jpg) | CC BY-SA 4.0 | Thomon |
 | `images/hotel-trianon-alt.jpg` | [Versailles - Trianon Palace](https://commons.wikimedia.org/wiki/File:Versailles_-_Trianon_Palace.jpg) | Public domain | Unknown |
-| `images/dinner-gordon.jpg` | Unsplash / Wikimedia Commons stock (fine-dining mood) | Unsplash License / free Commons | Stock photographer |
+| `images/dinner-gordon.jpg` | Unsplash photo-1414235077428 (plated fine dining) | Unsplash License / free Commons | Stock photographer |
 | `images/dinner-bistrot.jpg` | Unsplash / Wikimedia Commons stock (bistrot mood) | Unsplash License / free Commons | Stock photographer |
 | `images/dinner-satory.jpg` | Unsplash / Wikimedia Commons stock (modern dining mood) | Unsplash License / free Commons | Stock photographer |
 | `images/dinner-lully.jpg` | Unsplash / Wikimedia Commons stock (candlelit dining mood) | Unsplash License / free Commons | Stock photographer |
